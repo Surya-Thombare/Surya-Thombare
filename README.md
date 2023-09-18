@@ -7,8 +7,6 @@
 
 - 🌱 I'm currently learning **Web3.js, Hardhat**
 
-- 👯 I'm looking to collaborate on **Web3 projects**
-
 - 💬 Ask me about **React, CSS, JavaScript**
 
 - 📫 How to reach me **suryathombre000@gmail.com**
