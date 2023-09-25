@@ -5,7 +5,7 @@
 <div>
 - 🔭 I'm currently working on **A MERN stack project**
 
-- 🌱 I'm currently learning **Web3.js, Hardhat**
+- 🌱 I'm currently learning **React, React Native**
 
 - 💬 Ask me about **React, CSS, JavaScript**
 
