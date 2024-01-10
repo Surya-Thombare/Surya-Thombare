@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surya Thombre</h1>
 <h3 align="center">A passionate React frontend developer from India</h3>
 
-<div style="color: red; text-decoration: underline; disply: flex; flex-direction: row;">
+<div style="color: red; text-decoration: underline; display: flex; flex-direction: row;">
 <div>
 - 🔭 I'm currently working on **A MERN stack project**
 
@@ -13,13 +13,8 @@
   
 - 📫 How to reach me <a href='tel:+918779530847'>+918779530847</a>
 </div>
-<img alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
-</div>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-thombare&label=Profile%20views&color=0e75b6&style=flat" alt="surya-thombare" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surya-thombare" alt="surya-thombare" /></a> </p>
+</div>
 
 
 
@@ -39,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surya-thombare&show_icons=true&locale=en" alt="surya-thombare" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surya-thombare&" alt="surya-thombare" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surya-thombare" alt="surya-thombare" /></a> </p>
+
