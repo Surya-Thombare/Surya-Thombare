@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Surya Thombre</h1>
-<h3 align="center">A passionate React frontend developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FC6600&center=false&multiline=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Surya+Thombare)](https://git.io/typing-svg)
 
-<div style="color: red; text-decoration: underline; display: flex; flex-direction: row;">
-<div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FC6600&multiline=true&random=false&width=800&height=80&lines=passionate+React+frontend+developer+from+India)](https://git.io/typing-svg)
+
+<div style="color: #FC6600; text-decoration: underline; display: flex; flex-direction: row;">
+  
 - 🔭 I'm currently working on **A MERN stack project**
 
 - 🌱 I'm currently learning **React, React Native**
@@ -13,12 +14,12 @@
   
 - 📫 How to reach me <a href='tel:+918779530847'>+918779530847</a>
 </div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-thombare&label=Profile%20views&color=0e75b6&style=flat" alt="surya-thombare" /> </p>
-</div>
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" tyle="color: #FC6600">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@thombre_surya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@thombre_surya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/surya-thombre-310320166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya-thombre-310320166" height="30" width="40" /></a>
